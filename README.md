@@ -16,4 +16,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 ## 🎮 How to Play
 1. Choose Rock, Paper, or Scissors.
 2. The computer randomly selects its move.
-3. The
+3. The game determines the winner based on the rules.
+
+## 👩‍💻 Author
+**Amruta**
